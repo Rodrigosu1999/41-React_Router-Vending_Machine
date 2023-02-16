@@ -1,0 +1,5 @@
+.VendingMachine h1, .VendingMachine a{
+    display: inline-block;
+    padding: 2rem;
+    color: rgb(66, 137, 223);
+}

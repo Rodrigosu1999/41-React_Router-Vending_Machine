@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  width: 500px;
+}
+.VendingMachine-img{
+  width: 700px;
+}

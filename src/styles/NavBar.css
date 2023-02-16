@@ -1,0 +1,16 @@
+.NavBar{
+    background-color: rgb(66, 137, 223);
+    padding: 1rem;
+}
+
+.NavBar a{
+    font-size: 2rem;
+    margin: 20px;
+    color: rgba(255, 255, 255, .50);
+}
+
+.NavBar a.active{
+    font-size: 2rem;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+}
